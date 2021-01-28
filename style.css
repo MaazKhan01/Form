@@ -1,0 +1,14 @@
+
+nav.navbar.navs
+{
+    background-color: transparent !important;
+}
+ul > li > a {
+    color: #000;
+}
+ul > li > a:hover{
+    color: gray;
+}
+.input-group{
+    width :50%;
+}
